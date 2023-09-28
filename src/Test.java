@@ -6,6 +6,7 @@ public class Test {
         s.stoneCheck();
         s.grabStone();
         s.buildWall();
+        //please work again
 
     }
 }
